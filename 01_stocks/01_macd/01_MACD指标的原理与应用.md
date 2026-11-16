@@ -41,7 +41,7 @@
 
 ## 2. MACD各指标在数学意义上的解读
 
-![mack](https://raw.githubusercontent.com/ivanzz1001/stocks_financial_management/master/stocks/MACD/image/macd_001.png)
+![mack](https://raw.githubusercontent.com/ivanzz1001/stocks_financial_management/master/01_stocks/01_macd/assets/macd_001.png)
 
 MACD反应的是`量价关系`中的`价格走势`:
 
